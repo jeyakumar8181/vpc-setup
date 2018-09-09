@@ -7,7 +7,7 @@ default = "publicsubnet"
 }
 
 variable "az_count"{
-default = "1"
+default = "2"
 }
 
 variable "access_key" {}
